@@ -6,8 +6,10 @@ summary: "On December 17, 2025, the OpenRail Association brought together the op
 image: 
   src: images/openrailday/location.jpg
   alt: ""
+image:
   src: images/openrailday/roundtable.jpg
   alt: ""
+image:
   src: images/openrailday/members.jpg
   alt:  ""
 ---
