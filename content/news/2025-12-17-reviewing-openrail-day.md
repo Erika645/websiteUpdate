@@ -25,11 +25,11 @@ Nearly 1.000 open source railway enthusiasts took part in:
 * and numerous meetings between railway, digital and open-source stakeholders from several countries.
  
 🎤 Key insights from the day
-* **Jochen Decker** outlined common challenges faced by railways everywhere and the potential of open source to address them.
-* **François DAVENNE** highlighted the importance of open collaboration, interoperability, and the role of the OpenRail Association in enabling them.
-* The European Commission (EC Open Source Programme Office) shared its vision on open source, interoperability and cross-sector collaboration at the European level, represented by Miguel Díez Blanco and **Catalin Moruju**.
+* Jochen Decker outlined common challenges faced by railways everywhere and the potential of open source to address them.
+* François DAVENNE highlighted the importance of open collaboration, interoperability, and the role of the OpenRail Association in enabling them.
+* The European Commission (EC Open Source Programme Office) shared its vision on open source, interoperability and cross-sector collaboration at the European level, represented by Miguel Díez Blanco and Catalin Moruju.
 
-💬 Panel discussion with **Lucian Balea** (LF Energy, RTE France), Fatima Zohra EL OUERKHAOUI (ONCF), **Daniel Woithe** (DB Systel), **Peter Franken** (Infrabel), **Pierre Tane** (UIC), and **Loïc Hamelin** (SNCF), moderated by **Amel Charleux** (University of Montpellier), the panel explored:
+💬 Panel discussion with Lucian Balea (LF Energy, RTE France), Fatima Zohra EL OUERKHAOUI (ONCF), Daniel Woithe (DB Systel), Peter Franken (Infrabel), Pierre Tane (UIC), and Loïc Hamelin (SNCF), moderated by Amel Charleux (University of Montpellier), the panel explored:
 * The value of open source in railways
 * Real-world experiences
 * Ways to shape the future of open collaboration in the sector
